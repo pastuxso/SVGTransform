@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="340 180 280 40" enable-background="new 340 180 280 40" xml:space="preserve">
+<g id="BackgroundColor">
+	<rect x="340" y="180" fill="#E26901" width="280" height="40"/>
+</g>
+<g id="overlay">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="340" y="180" width="280" height="40"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			<g>
+				<defs>
+					<rect id="SVGID_3_" x="340" y="145.5" width="280" height="116.667"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_4_)">
+					<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="480" y1="324.45" x2="480" y2="144.854">
+						<stop  offset="0.4848" style="stop-color:#FFFFFF;stop-opacity:0"/>
+						<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
+					</linearGradient>
+					<polygon fill="url(#SVGID_5_)" points="491.544,144.854 387.56,144.854 340,256.449 340,324.45 620,324.45 620,238.829 					
+						"/>
+					<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="518.6482" y1="286.7743" x2="518.6482" y2="144.7755">
+						<stop  offset="0.3687" style="stop-color:#FFFFFF;stop-opacity:0"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					<polygon opacity="0.15" fill="url(#SVGID_6_)" enable-background="new    " points="523.376,286.774 523.376,286.774 
+						451.887,144.776 585.409,144.776 					"/>
+					<polygon opacity="0.05" fill="#F2F2F2" enable-background="new    " points="414.615,325.629 414.615,325.629 343.109,144.776 
+						476.631,144.776 					"/>
+					<polygon opacity="0.04" fill="#F2F2F2" enable-background="new    " points="339.71,256.633 609.498,145.25 339.71,145.25 
+											"/>
+					<polygon opacity="0.05" fill="#F2F2F2" enable-background="new    " points="378.03,167.216 542.474,287.688 439.746,83.744 
+						398.356,119.524 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="fade">
+	<g>
+		<defs>
+			<rect id="SVGID_7_" x="340" y="180" width="280" height="40"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  overflow="visible"/>
+		</clipPath>
+		<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="480" y1="262.1667" x2="480" y2="145.5">
+			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
+		</linearGradient>
+		<rect x="340" y="145.5" clip-path="url(#SVGID_8_)" fill="url(#SVGID_9_)" width="280" height="116.667"/>
+	</g>
+</g>
+</svg>
