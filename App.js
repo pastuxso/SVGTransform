@@ -10,6 +10,7 @@ import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
 
 import ImageSVG from './image.svg';
+import ImageSVG2 from './image2.svg';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -23,8 +24,15 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Image Below</Text>
-        <ImageSVG width={100} height={50} />
+        <Text>Images Below</Text>
+        <View style={{flexDirection: 'row', alignItems: 'center'}}>
+          <Text>svg 1. </Text>
+          <ImageSVG width={100} height={50} style={{marginLeft: 10}}/>
+        </View>
+        <View style={{flexDirection: 'row', alignItems: 'center'}}>
+          <Text>svg 2. </Text>
+          <ImageSVG2 width={100} height={50} style={{marginLeft: 10}}/>
+        </View>
       </View>
     );
   }
